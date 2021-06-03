@@ -1,7 +1,7 @@
 # Elon Mask Application
 ## Repository for Elon Mask's Bangkit 2021 Capstone Project
 
-# Elon Mask is Face Mask Detector With Stats Analyzer Application
+## Elon Mask is Face Mask Detector With Stats Analyzer Application
 
 Our Team :
 
