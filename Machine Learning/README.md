@@ -15,4 +15,7 @@
 7. Copy dataset_process.py from parent directory to Darknet Directory and run it
 8. Download the YoloV4 Pre-Trained Weights : https://github.com/AlexeyAB/darknet/releases/download/darknet_yolo_v3_optimal/yolov4.conv.137
 9. Train The Mask Detection Model (Custom Object) from obj.data (in darknet/data) and yolov4-custom.cfg (in darknet/data) on the YoloV4 Pre-Trained Weights
-10. Test the model that we got from previous step with random video (related to face mask)
+10. Convert The yolov4-custom_best.weights that we got from previous step to Tensorflow Model (Code in Mask-Detector.ipynb file step 4)
+11. Test to detect mask in a video using detect_video.py file (Code in Mask-Detector.ipynb file step 5)
+12. Convert The TF Model (.pb) to Pickle file (Code in Mask-Detector.ipynb file step 6)
+13. Convert The TF Model to TF Lite (Code in Mask-Detector.ipynb file step 7)
