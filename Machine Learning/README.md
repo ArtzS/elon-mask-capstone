@@ -8,7 +8,7 @@
 
 1. Go to your main directory of the project
 2. Clone the Darknet Repository : https://github.com/AlexeyAB/darknet
-3. Enable OPENCV, GPU, CUDNN, CUDNN_HALF, and LIBSO in yolov4-custom.cfg 
+3. Enable (change 0 to 1) OPENCV, GPU, CUDNN, CUDNN_HALF, and LIBSO in yolov4-custom.cfg
 4. Extract or move the dataset to data folder in Darknet directory
 5. Copy yolov4-custom.cfg from parent directory to cfg folder in Darknet directory
 6. Copy obj.names and obj.data files from parent directory to data folder in Darknet directory
