@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "674180718807",
+    "firebase_url": "https://elonmask-b89af-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "elonmask-b89af",
+    "storage_bucket": "elonmask-b89af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674180718807:android:121d22796aa69dec3cd092",
+        "android_client_info": {
+          "package_name": "com.example.capstone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "674180718807-899l4ka6jdtac6s5nuropifceei8hqr1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWRQDXXr7CvhIH-Ijuu9klNk5LtcBo0Mo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "674180718807-899l4ka6jdtac6s5nuropifceei8hqr1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674180718807:android:aa99701a96eccdd93cd092",
+        "android_client_info": {
+          "package_name": "com.example.elonmask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "674180718807-899l4ka6jdtac6s5nuropifceei8hqr1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWRQDXXr7CvhIH-Ijuu9klNk5LtcBo0Mo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "674180718807-899l4ka6jdtac6s5nuropifceei8hqr1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
