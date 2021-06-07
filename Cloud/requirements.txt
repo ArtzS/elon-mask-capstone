@@ -1,0 +1,4 @@
+virtualenv
+Flask
+google.cloud
+google-cloud-storage
