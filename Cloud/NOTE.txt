@@ -1,6 +1,6 @@
 NOTES
 
-For Cloud implementation in our project, we opted to deploy the ML model in Android instead of  deploying in the Cloud using flask API.
+For Cloud implementation in our project, we opted to deploy the ML model in Android instead of deploying in the Cloud using flask API (for efficiency reasons).
 We opened a Firebase/ Firestore database for our Android team.
 
 Python Flask API provided in this folder.
