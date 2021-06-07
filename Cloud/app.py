@@ -18,7 +18,7 @@ def home():
 	os.chdir('/home/c0050503/Mask Detector YOLOV4/detection')
 	os.system('python /home/c0050503/Mask\ Detector\ YOLOV4/detection/detect_video.py --weights /home/c0050503/Mask\ Detector\ YOLOV4/detection/TFmodel --size 416 --model yolov4 --video /home/c0050503/Mask\ Detector\ YOLOV4/video\ test/Wearing\ a\ face\ mask\ in\ scared\ of\ coronavirus\ in\ the\ Philippines.mp4 --output /home/c0050503/Mask\ Detector\ YOLOV4/result.mp4 --count')
 
-	return render_template('index.html')
+#	return render_template('index.html')
 
 
 
