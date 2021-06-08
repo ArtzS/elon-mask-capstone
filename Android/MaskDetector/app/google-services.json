@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1033029732366",
+    "project_id": "elon-mask-316208",
+    "storage_bucket": "elon-mask-316208.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1033029732366:android:2df5d884ee42de752b945f",
+        "android_client_info": {
+          "package_name": "com.example.maskdetector"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1033029732366-5qlss1bksjg4m79h1gqerdeu8f8t6625.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGFZftTl8JFgs0IebE8_FIOW295qbYJ28"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1033029732366-5qlss1bksjg4m79h1gqerdeu8f8t6625.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

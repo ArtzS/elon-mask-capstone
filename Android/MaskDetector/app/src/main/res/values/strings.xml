@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Mask Detector</string>
+    <string name="image">Splashimage</string>
+    <string name="take_picture">Take Picture</string>
+    <string name="iamgeview">iamgeView</string>
+    <string name="permissionDenied">Permission Denied.</string>
+    <string name="tfe_od_app_name" translation_description="Object Detection demo app [CHAR_LIMIT=40]">TFL Detect</string>
+    <string name="tfe_od_camera_error" translation_description="Error regarding camera support[CHAR_LIMIT=40]">This device doesn\'t support Camera2 API.</string>
+    <string name="camera">camera</string>
+    <string name="confirmed">Confirmed</string>
+    <string name="death">Death</string>
+    <string name="recovered">Recovered</string>
+    <string name="_0">0</string>
+    <string name="covid_19">COVID-19</string>
+    <string name="jan_01_2020">JAN 01 2020</string>
+    <string name="covid_19_cases_in_indonesia">COVID-19 Cases in Indonesia</string>
+</resources>
