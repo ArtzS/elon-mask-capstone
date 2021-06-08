@@ -20,7 +20,7 @@ Ghozy Muhammad Hanzhalah Muchjidi (M0090930) - Machine Learning - Universitas Gu
 
 ----------------------------------------------------------------------------------------------------
 ## Here are steps for replicate our project (application) :
-1. Create The Machine Learning Model (Follow this = http://bit.ly/ElonMask-ML)
-2. Build an Apps (Follow this = https://bit.ly/3w9LE40)
-3. Implement Cloud in the project = (Follow this = http://bit.ly/cloud-ElonMask)
+1. Create The Machine Learning Model (Click [here](http://bit.ly/ElonMask-ML))
+2. Build an Apps (Click [here](https://bit.ly/3w9LE40))
+3. Implement Cloud in the project = (Click [here](http://bit.ly/cloud-ElonMask))
 
