@@ -21,6 +21,6 @@ Ghozy Muhammad Hanzhalah Muchjidi (M0090930) - Machine Learning - Universitas Gu
 ----------------------------------------------------------------------------------------------------
 ## Here are steps for replicate our project (application) :
 1. Create The Machine Learning Model (Follow this = http://bit.ly/ElonMask-ML)
-2. (Android Steps)
+2. Build app, merge with TFLITE, creating auto trigger function that can capture data result, creating ROOM, implementing Clean Architecture, and connect to Firebase.
 3. (Cloud Steps)
 
