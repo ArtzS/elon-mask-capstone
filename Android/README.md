@@ -8,3 +8,6 @@
 
 ### B. What's On Our App
 1. TFLite Camera
+2. Covid-19 Cases Number
+3. MaskData Log graph (last 12 hours)
+4. MaskData Log graph (per day)
