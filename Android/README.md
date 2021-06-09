@@ -10,6 +10,4 @@
 1. TFLite Camera
 2. Covid-19 Cases Number
 3. MaskData Log graph (last 12 hours)
-4. MaskData Log graph (per day)
-
-![](https://cdn.discordapp.com/attachments/831895429985468440/852079666830901248/Screenshot_20210609-135750_Mask_Detector.jpg | width=100)
+4. MaskData Log graph (select date)
