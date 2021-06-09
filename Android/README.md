@@ -1,4 +1,4 @@
-# Android Documentation
+## Android Documentation
 
 ### A. How to duplicate our android app
 1. git clone this repository
